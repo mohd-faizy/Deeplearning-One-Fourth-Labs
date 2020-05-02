@@ -1,4 +1,4 @@
-# MyCollab_Deeplearning_jupyter_PadhAI
+# My_Deeplearning_jupyter_Notebooks_PadhAI
 DeepLearning Repo. 
 
 
